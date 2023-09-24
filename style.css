@@ -1,0 +1,149 @@
+#body {
+    margin: 0;
+    background-image: linear-gradient(to bottom right,purple,red,rgb(212, 197, 62) )
+}
+
+/*  the start of main up  */
+#main {
+    width: 520px;
+    height: 500px;
+    margin: 90px auto 0;
+    background-color: white;
+}
+
+#textins {
+    text-align: center;
+}
+
+#logoins {
+    width: 250px;
+    margin-top: 55px;
+}
+
+#inputuse {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#inputuse input {
+    padding: 15px 85px;
+    border: 2px solid rgb(227, 224, 224);
+    border-radius: 3px;
+    outline: none;
+}
+
+#inputpass {
+    text-align: center;
+    margin-top: 8px;
+}
+
+#inputpass input {
+    padding: 15px 85px;
+    border: 3px solid rgb(227, 224, 224);
+    border-radius: 3px;
+    outline: none;
+}
+
+#bluebtn {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#login {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(55, 133, 241);
+    padding: 16px 150px;
+    border-radius: 13px;
+    font-family: arial;
+}
+
+#ormain {
+    margin: 40px 0 0 87px;
+    display: inline-block;
+}
+
+#ormain * {
+    vertical-align: middle;
+
+}
+
+#or {
+    color: gray;
+    font-size: 17px;
+
+}
+
+#lineleft {
+    width: 160px;
+    display: inline-block;
+
+}
+
+#lineright {
+    width: 160px;
+    display: inline-block;
+}
+
+#facebook {
+    text-align: center;
+    margin-top: 25px;
+}
+
+#linkfacebook {
+    text-decoration: none;
+}
+
+#linkfacebook span {
+    font-family: arial;
+    color: rgb(52, 52, 127);
+    font-size: 20px;
+}
+
+#linkfacebook svg {
+    width: 25px;
+    height: 25px;
+}
+
+#linkfacebook * {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+#linkforgotpassword {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#linkforgotpassword a {
+    text-decoration: none;
+    font-family: arial;
+    color: rgb(52, 52, 127);
+    font-size: 15px;
+}
+
+/* the end of main up */
+
+/* the start of main down */
+#linksingup {
+    text-align: center;
+    margin: 18px auto 0;
+    width: 520px;
+    height: 65px;
+    background-color: white;
+}
+
+#linksingup * {
+    text-decoration: none;
+    font-size: 17.5px;
+    display: inline-block;
+    margin-top: 8px;
+    font-family: arial;
+}
+
+#linksingup a {
+    margin-left: 8px;
+    color: rgb(87, 165, 229);
+}
+
+/* the end of main down */
